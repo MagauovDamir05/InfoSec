@@ -21,13 +21,13 @@ export default function Footer() {
           <h3 className="text-xl font-semibold mb-4">Контакты</h3>
           <ul className="space-y-3 text-gray-100">
             <li className="flex items-center gap-2">
-              <Phone size={18} /> <span>+7 (999) 123-45-67</span>
+              <Phone size={18} /> <span>+7 (705) 123-45-67</span>
             </li>
             <li className="flex items-center gap-2">
               <Mail size={18} /> <span>info@buildpro.ru</span>
             </li>
             <li className="flex items-center gap-2">
-              <MapPin size={18} /> <span>г. Москва, ул. Строителей, 10</span>
+              <MapPin size={18} /> <span>г. Петропавловск, ул. Строителей, 10</span>
             </li>
           </ul>
         </div>

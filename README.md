@@ -1,3 +1,5 @@
+Работа по дисциплине: "Информационная безопасность"
+
 Ссылка на vercel: https://info-sec-phi.vercel.app/
 
 Отчет: https://docs.google.com/document/d/1d6JLhoXrPVQl8atH67_HoV0UPNFYiCA6_l112g2Bx2w/edit?usp=sharing
